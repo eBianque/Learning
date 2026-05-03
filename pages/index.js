@@ -1,8 +1,7 @@
 function Home() {
   return (
     <div>
-      <h1>Olá, mundo!</h1>
-      <p>frase alterada</p>
+      <h1>Te amo, mãe! Abre a mão.</h1>
     </div>
   );
 }
